@@ -1,4 +1,0 @@
-(fp_lib_table
-  (lib (name USB_A)(type Legacy)(uri "${KIPRJMOD}/Component Libraries/USB_A.mod")(options "")(descr ""))
-  (lib (name Micro_USB_B.mod)(type Legacy)(uri "${KIPRJMOD}/Component Libraries/Micro_USB_B.mod.mod")(options "")(descr ""))
-)
